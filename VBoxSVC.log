@@ -1,0 +1,420 @@
+00:00:00.002724 main     VirtualBox COM Server 7.0.6 r155176 win.amd64 (Jan 11 2023 16:38:38) release log
+00:00:00.002726 main     Log opened 2023-02-27T18:54:06.681346700Z
+00:00:00.002727 main     Build Type: release
+00:00:00.002731 main     OS Product: Windows 10
+00:00:00.002732 main     OS Release: 10.0.21996
+00:00:00.002733 main     OS Service Pack: 
+00:00:00.057639 main     DMI Product Name: 20LES2KD00
+00:00:00.065234 main     DMI Product Version: ThinkPad X1 Yoga 3rd
+00:00:00.065241 main     Firmware type: UEFI
+00:00:00.065870 main     Secure Boot: Enabled
+00:00:00.065880 main     Host RAM: 16223MB (15.8GB) total, 10700MB (10.4GB) available
+00:00:00.065898 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.065899 main     Process ID: 16868
+00:00:00.065899 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.119370          VirtualBox: object creation starts
+00:00:00.119548          Home directory: 'C:\Users\Admin\.VirtualBox'
+00:00:00.119652          Installed Drivers:
+00:00:00.124377            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.6.5176)
+00:00:00.125077            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.6.5176)
+00:00:00.125543            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.6.5176)
+00:00:00.126404            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.6.5176)
+00:00:00.135605          Loading settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.138165          usbLibGetDevices: Starting USB device enumeration
+00:00:00.139819          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.139866          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.139906          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:00:00.139944          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.139987          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 15
+00:00:00.141428          usbLibGetDevices: Found 6 USB devices, 0 captured
+00:00:00.141521          USB: Unknown USB device detected (idVendor: 0x056a, idProduct: 0x5148)
+00:00:00.141536          USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x009a)
+00:00:00.141550          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x0328)
+00:00:00.141562          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56b2)
+00:00:00.141575          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2b)
+00:00:00.223397          HostDnsMonitor: initializing
+00:00:00.236091          HostDnsMonitor: updating information
+00:00:00.236112          HostDnsMonitor: old information
+00:00:00.236113            no server entries
+00:00:00.236113            no domain set
+00:00:00.236114            no search string entries
+00:00:00.236114          HostDnsMonitor: new information
+00:00:00.236115            server 1: 172.28.28.3
+00:00:00.236115            server 2: 172.28.28.4
+00:00:00.236116            server 3: 172.28.28.1
+00:00:00.236116            server 4: 172.28.28.2
+00:00:00.236116            domain: resnet.roehampton.ac.uk
+00:00:00.236117            no search string entries
+00:00:00.238354          VD: VDInit finished with VINF_SUCCESS
+00:00:00.500453          Loading settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:00:00.506213          Loading settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:00:00.511759          Loading settings file "C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox" with version "1.19-windows"
+00:00:00.517338          Loading settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+00:00:00.523067          Loading settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+00:00:00.524003          VirtualBox: object created
+00:00:00.573281          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.584354          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:00.585010          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.593711          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:00.594026          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.601313          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:01.686746          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:05.323840          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.335721          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:05.347657          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:05.503914          Launched VM: 1951466464 pid: 11748 (0x2de4) frontend: GUI/Qt name: Ubuntu Gateway and Router
+00:00:05.523366          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:10.822833          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:11.393896          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:13.509937          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:13.966944          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:13.969346          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:13.971201          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+00:00:13.979333          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"
+00:00:13.992027          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:15.391010          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:16.531399          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:16.540267          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:16.565404          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:16.721023          Launched VM: 1918548320 pid: 3620 (0xe24) frontend: GUI/Qt name: Kali Linux
+00:00:16.737504          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:17.385557          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:20.317020          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+00:00:20.323466          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"
+00:00:21.252532          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+00:00:21.259102          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"
+00:00:22.450950          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:23.136735          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:25.652927          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:26.113226          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:26.115029          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:26.119019          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:00:26.126971          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:00:26.143568          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:27.824793          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.861185          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:28.048402          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+00:00:28.057005          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"
+00:00:30.770207          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:00:30.792425          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:00:30.801067          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:33.344665          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:00:33.355813          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:00:33.366084          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:34.786491          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+00:00:34.797455          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"
+00:00:44.362102          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:00:44.374178          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:00:44.419416          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:50.910349          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:00:50.923388          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:00:50.932031          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:21.830361          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:01:21.841722          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:01:21.850644          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:38:38.360657          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:38:38.368043          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:38:38.380383          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:38:39.238189          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:38:39.247046          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:38:39.254749          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:38:40.940814          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:38:40.950818          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:38:40.958798          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:38:42.298038          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:38:42.304581          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:38:42.311323          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:38:44.565184          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:38:44.572140          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:38:44.579890          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:38:46.946608          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:38:46.965447          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:38:46.990154          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:38:47.105888          Launched VM: 1918253456 pid: 6268 (0x187c) frontend: GUI/Qt name: Ubuntu Server 22.04 (Zabbix)
+00:38:47.129097          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:38:53.548145          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:38:54.301178          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:38:54.832753          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:38:54.840849          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:38:57.051029          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:38:57.667635          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:38:57.672296          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+00:38:57.680240          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+00:38:57.682793          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:38:57.699069          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:38:59.413749          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:39:01.236102          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:39:01.244283          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:39:01.896953          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:39:04.847292          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+00:39:04.854611          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+00:39:04.872573          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:39:06.049693          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+00:39:06.056858          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+00:39:06.072182          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:39:13.754946          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+00:39:13.763067          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+00:39:13.773266          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:39:20.470413          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+00:39:20.477131          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+00:39:20.489678          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:39:39.114658          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+00:39:39.122502          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+00:46:39.313580          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:46:39.318817          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:46:39.337519          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:46:39.504904          Launched VM: 1955505600 pid: 17044 (0x4294) frontend: GUI/Qt name: bitnami-elk
+00:46:39.530330          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:46:46.263489          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:46:46.268547          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:46:46.282101          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:46:46.299053          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:46:48.757510          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:46:49.191533          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:46:49.196172          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:46:51.200762          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:46:51.221104          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:48:08.748690 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:48:08.765434 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:48:08.765615 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:48:08.767184 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:48:08.767333 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:48:08.767453 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 15
+00:48:08.779006 USBPROXY usbLibGetDevices: Found 6 USB devices, 0 captured
+00:48:10.130656 dns-monitor HostDnsMonitor: updating information
+00:48:10.130713 dns-monitor HostDnsMonitor: old information
+00:48:10.130729 dns-monitor   server 1: 172.28.28.3
+00:48:10.130737 dns-monitor   server 2: 172.28.28.4
+00:48:10.130740 dns-monitor   server 3: 172.28.28.1
+00:48:10.130744 dns-monitor   server 4: 172.28.28.2
+00:48:10.130747 dns-monitor   domain: resnet.roehampton.ac.uk
+00:48:10.130751 dns-monitor   no search string entries
+00:48:10.130754 dns-monitor HostDnsMonitor: new information
+00:48:10.130758 dns-monitor   server 1: 10.2.0.1
+00:48:10.130761 dns-monitor   server 2: 172.28.28.3
+00:48:10.130765 dns-monitor   server 3: 172.28.28.4
+00:48:10.130768 dns-monitor   server 4: 172.28.28.1
+00:48:10.130771 dns-monitor   server 5: 172.28.28.2
+00:48:10.130775 dns-monitor   domain: resnet.roehampton.ac.uk
+00:48:10.130778 dns-monitor   no search string entries
+00:49:45.787130          Launched VM: 1955681264 pid: 8992 (0x2320) frontend: GUI/Qt name: Ubuntu 14.04 Server
+00:49:45.826934          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:49:54.260742          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:49:55.366966          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:49:59.313208          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:49:59.951930          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:49:59.958659          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:49:59.963739          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+00:49:59.992702          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:50:02.454312          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:50:02.521440          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:50:05.537371          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:50:05.549363          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+00:50:05.593741          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:50:06.892619          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:50:06.903549          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+00:50:06.923893          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:50:12.040006          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:50:12.052943          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+00:50:12.069029          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:50:17.814836          Saving settings file "C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox" with version "1.19-windows"
+00:50:17.828174          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox"
+00:50:23.645824          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:50:23.654890          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+00:50:23.675926          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:53:53.377031 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:53:53.378467 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:53:53.381990 USBPROXY usbLibDevGetHubPortDevices: No DriverKey on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:53:53.382012 USBPROXY usbLibDevCfgDrGet: IOCTL_USB_GET_DESCRIPTOR_FROM_NODE_CONNECTION #1 failed (dwErr=433) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:53:53.389266 USBPROXY usbLibGetDevices: Found 6 USB devices, 0 captured
+00:53:53.389305 USBPROXY USB: Unknown USB device detected (idVendor: 0x0000, idProduct: 0x0000)
+00:53:54.667945 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:53:54.669562 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:53:54.778925 USBPROXY usbLibGetDevices: Found 6 USB devices, 0 captured
+00:53:54.778991 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x009a)
+00:56:50.252883          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:56:51.377239          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:56:51.427356          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+00:56:51.438777          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+00:56:51.460049          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:56:52.987469          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:56:58.634090          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:56:59.689773          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:57:00.051516          Saving settings file "C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox" with version "1.19-windows"
+00:57:00.064076          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox"
+00:57:00.082846          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+01:01:01.572303          Launched VM: 1956576096 pid: 15412 (0x3c34) frontend: GUI/Qt name: Ubuntu 14.04 Server
+01:01:01.593463          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+01:01:07.594334          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+01:01:08.253353          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+01:01:11.028016          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:01:11.606970          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+01:01:11.610475          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:01:11.621896          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:01:11.624160          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+01:01:11.642684          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+01:01:13.162391          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+01:01:13.197434          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:01:16.112894          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:01:16.123282          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:01:16.134447          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:01:17.079935          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:01:17.090238          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:01:17.100419          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:01:21.470643          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:01:21.479163          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:01:21.494169          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:01:30.503000          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:01:30.510720          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:01:30.542972          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:02:43.738157          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:02:43.747249          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:02:43.758648          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:04:50.524113 dns-monitor HostDnsMonitor: updating information
+01:04:50.524134 dns-monitor HostDnsMonitor: unchanged
+01:06:31.078555          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:06:31.089638          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+01:14:03.611394          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:14:03.619756          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:14:03.635224          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:14:04.767249          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:14:04.775292          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:14:04.785036          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:14:06.537277          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:14:06.544396          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:14:06.557837          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:14:07.658819          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:14:07.667808          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:14:07.680140          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:14:11.987459          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:14:11.996342          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:14:12.009782          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:14:21.038782          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:14:21.046365          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:14:21.057659          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:25:06.455819          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:25:06.464051          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:25:06.476673          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:25:06.816012          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:25:06.824926          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:25:06.835534          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:25:09.270240          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:25:09.278516          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:25:09.286902          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:25:10.174473          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:25:10.182408          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:25:10.190162          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:25:14.219889          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:25:14.227836          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:25:14.236128          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:25:22.033706          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:25:22.040764          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:25:22.051392          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:28:05.245833 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:28:05.255914 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+01:28:05.260916 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+01:28:05.270278 USBPROXY usbLibGetDevices: Found 7 USB devices, 0 captured
+01:28:05.270428 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x009a)
+01:28:06.297292 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:28:06.304266 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+01:28:06.304473 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:28:06.304605 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+01:28:06.307347 USBPROXY usbLibGetDevices: Found 7 USB devices, 0 captured
+01:28:15.840258 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:28:15.841862 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+01:28:15.845450 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+01:28:15.853948 USBPROXY usbLibGetDevices: Found 6 USB devices, 0 captured
+01:43:23.127800          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:43:23.136847          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:43:24.107994          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:43:24.538027          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:43:24.547094          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:43:24.556568          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:43:26.157773          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:43:26.177182          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:43:26.185399          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:43:30.129239          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:43:30.141737          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:43:30.155521          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:43:31.190939          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:43:31.203962          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:43:31.212982          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:43:38.988530          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+01:43:38.998840          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+01:43:39.009253          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:48:03.316061          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:48:03.322587          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+01:48:03.344845          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:07:36.206142          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:07:36.215314          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:07:36.235192          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:07:36.956838          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:07:36.965314          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:07:36.975547          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:07:39.223817          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:07:39.230334          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:07:39.240925          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:07:40.175449          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:07:40.182311          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:07:40.195316          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:07:46.691548          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:07:46.700015          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:07:46.709558          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:07:51.518463          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:07:51.525707          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:07:51.537994          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:18.573233          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:19.585973          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:19.650437          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox" with version "1.19-windows"
+02:13:19.660008          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"
+02:13:19.684936          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:23.939059          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:25.130803          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:25.334337          Saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox" with version "1.19-windows"
+02:13:25.344353          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"
+02:13:25.363856          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:33.750552 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:13:33.752095 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+02:13:33.752169 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:13:33.752219 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+02:13:33.752282 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+02:13:33.752329 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&27a4dba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 15
+02:13:33.752509 USBPROXY usbLibGetDevices: Found 6 USB devices, 0 captured
+02:13:33.752549 USBPROXY USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x0328)
+02:13:35.058143 dns-monitor HostDnsMonitor: updating information
+02:13:35.058178 dns-monitor HostDnsMonitor: old information
+02:13:35.058182 dns-monitor   server 1: 10.2.0.1
+02:13:35.058185 dns-monitor   server 2: 172.28.28.3
+02:13:35.058188 dns-monitor   server 3: 172.28.28.4
+02:13:35.058190 dns-monitor   server 4: 172.28.28.1
+02:13:35.058192 dns-monitor   server 5: 172.28.28.2
+02:13:35.058194 dns-monitor   domain: resnet.roehampton.ac.uk
+02:13:35.058214 dns-monitor   no search string entries
+02:13:35.058217 dns-monitor HostDnsMonitor: new information
+02:13:35.058219 dns-monitor   server 1: 172.28.28.3
+02:13:35.058221 dns-monitor   server 2: 172.28.28.4
+02:13:35.058223 dns-monitor   server 3: 172.28.28.1
+02:13:35.058226 dns-monitor   server 4: 172.28.28.2
+02:13:35.058228 dns-monitor   domain: resnet.roehampton.ac.uk
+02:13:35.058230 dns-monitor   no search string entries
+02:13:38.948406          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:39.993335          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:40.077943          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox" with version "1.19-windows"
+02:13:40.085278          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"
+02:13:40.113835          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:13:43.941226          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+02:13:45.065161          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+02:13:45.232095          Saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox" with version "1.19-windows"
+02:13:45.238852          Finished saving settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"
+02:13:45.253559          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+02:13:46.267763          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+02:13:59.637816 main     VirtualBox: object deletion starts
+02:13:59.638164 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:13:59.638977 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:13:59.639238 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:13:59.639534 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:13:59.639825 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix)-disk1.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:13:59.641900 main     HostDnsMonitor: shutting down ...
+02:13:59.642064 main     HostDnsMonitor: shut down
+02:13:59.647157 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:13:59.647349 main     VirtualBox: object deleted

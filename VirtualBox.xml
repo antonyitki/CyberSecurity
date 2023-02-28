@@ -9,21 +9,28 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=351e3785-a187-4273-87b4-1765ee6f9e50"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="659,132,960,633"/>
+      <ExtraDataItem name="GUI/HelpBrowserDialogGeomety" value="480,129,960,774"/>
+      <ExtraDataItem name="GUI/HelpBrowserLastURLList" value="qthelp://org.virtualbox/doc/index.html,qthelp://org.virtualbox/doc/ch01s19.html#soft-keyb"/>
+      <ExtraDataItem name="GUI/HelpBrowserZoomPercentage" value="100"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=30468ac3-909b-496f-92dd-75acb86ff813"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="463,366,753,390"/>
+      <ExtraDataItem name="GUI/MediumSelector/DialogGeometry" value="751,90,960,774"/>
+      <ExtraDataItem name="GUI/SoftKeyboardDialogGeometry" value="960,214,960,317"/>
+      <ExtraDataItem name="GUI/SoftKeyboardSelectedColorTheme" value="Gobi Light"/>
+      <ExtraDataItem name="GUI/SoftKeyboardSelectedLayout" value="{25867c1e-0455-4303-bf76-1c3ae4cca042}"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture"/>
-      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
+      <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Cloud,Details"/>
       <ExtraDataItem name="HostOnly/{b0ce5b93-feee-412f-b5bd-6c42fb073ab4}/IPAddress" value="192.168.56.1"/>
       <ExtraDataItem name="HostOnly/{b0ce5b93-feee-412f-b5bd-6c42fb073ab4}/IPNetMask" value="255.255.255.0"/>
       <ExtraDataItem name="HostOnly/{b0ce5b93-feee-412f-b5bd-6c42fb073ab4}/IPV6PrefixLen" value="0"/>
       <ExtraDataItem name="HostOnly/{b0ce5b93-feee-412f-b5bd-6c42fb073ab4}/Name" value="VirtualBox Host-Only Ethernet Adapter"/>
     </ExtraData>
     <MachineRegistry>
-      <MachineEntry uuid="{59480cd1-f454-442a-8ae7-857b187f4cf9}" src="C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox"/>
-      <MachineEntry uuid="{ddc32ebc-c4de-4dec-98e8-c5eeed6e3ad3}" src="C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"/>
-      <MachineEntry uuid="{351e3785-a187-4273-87b4-1765ee6f9e50}" src="C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"/>
-      <MachineEntry uuid="{cb696bf3-8786-4ac7-afec-33f284adf2d6}" src="C:\Users\Admin\VirtualBox VMs\Android-x86-9.0-r2_32bit\Android-x86-9.0-r2_32bit.vbox"/>
-      <MachineEntry uuid="{6da14e78-2907-45e5-bc7c-028cf7ddaa5c}" src="C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"/>
+      <MachineEntry uuid="{72ddcae7-e70b-49c8-b87f-20699742c29f}" src="C:\Users\Admin\VirtualBox VMs\Kali Linux\Kali Linux.vbox"/>
+      <MachineEntry uuid="{bdb98ce6-31e7-414d-b3f0-1ee775b4dc19}" src="C:\Users\Admin\VirtualBox VMs\Ubuntu 14.04 Server\Ubuntu 14.04 Server.vbox"/>
+      <MachineEntry uuid="{37e91c1f-201e-4f01-a029-3cce1f1c9deb}" src="C:\Users\Admin\VirtualBox VMs\bitnami-elk\bitnami-elk.vbox"/>
+      <MachineEntry uuid="{cba53486-87ca-473f-b6de-b2fd3f062e4c}" src="C:\Users\Admin\VirtualBox VMs\Ubuntu Gateway and Router\Ubuntu Gateway and Router.vbox"/>
+      <MachineEntry uuid="{30468ac3-909b-496f-92dd-75acb86ff813}" src="C:\Users\Admin\VirtualBox VMs\Ubuntu Server 22.04 (Zabbix)\Ubuntu Server 22.04 (Zabbix).vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
