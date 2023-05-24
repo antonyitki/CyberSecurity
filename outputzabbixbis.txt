@@ -1,0 +1,9 @@
+# Nmap 7.92 scan initiated Sat Feb 25 14:44:10 2023 as: nmap -oN outputzabbixbis.txt zabbix
+Nmap scan report for zabbix (172.31.123.30)
+Host is up (0.0032s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Sat Feb 25 14:44:10 2023 -- 1 IP address (1 host up) scanned in 0.23 seconds
